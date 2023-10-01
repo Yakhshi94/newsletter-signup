@@ -2,7 +2,7 @@
 
 this application is created to add subscription to the mailchimp audiance list
 
-Languages:
+Made of :
 Nodejs
 express
 javascript
